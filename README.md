@@ -17,7 +17,7 @@ The countries involved are :
 Welcome to the Brewery Product Sales Analysis project! In this analysis, we dive deep into the sales data of brewery products in West-African countries to uncover valuable insights and trends. This repository contains a Jupyter Notebook file and a Power BI published dashboard that showcases our key findings and the steps taken to approach the problem.
 
 ##Project Overview
-This analysis project aims to gain a comprehensive understanding of the sales performance of brewery products in West-African countries. We sought to answer key questions such as:
+This analysis project aims to gain a comprehensive understanding of the sales performance of brewery products in West-African countries. I sought to answer key questions such as:
 * What are the top-selling brewery products in each country?
 * How do the sales vary across different regions?
 * Are there any seasonal patterns or trends in the sales data?
@@ -39,10 +39,10 @@ Questions answered:
 
 
 ##Steps Taken
-1. Data Collection: The dataset was pulled from one of Utiva.io’s business analysis courses, Along with a lot of the questions that helped us engage and practice our new Python skills. We accurately imported the dataset into Pandas DataFrame on Python. This step ensured the accuracy and reliability of our analysis of the available dataset.
-2. Exploratory Data Analysis: We conducted exploratory data analysis to gain insights into the sales and consumption data’s trends and patterns. This involved visualizing key variables, identifying outliers, and understanding the relationships between different features.
-3. Feature Engineering: We engineered new features, such as calculating total revenue, average sales per region, and identifying year on year patterns, to enhance our analysis and provide additional insights.
-4. Power BI Dashboard: We developed an interactive Power BI dashboard to present our findings visually. The dashboard includes dynamic visualizations, filters, and key performance indicators to provide an intuitive and user-friendly experience.
+1. Data Collection: The dataset was pulled from one of Utiva.io’s business analysis courses, Along with a lot of the questions that helped us engage and practice our new Python skills. I accurately imported the dataset into Pandas DataFrame on Python. This step ensured the accuracy and reliability of our analysis of the available dataset.
+2. Exploratory Data Analysis: I conducted exploratory data analysis to gain insights into the sales and consumption data’s trends and patterns. This involved visualizing key variables, identifying outliers, and understanding the relationships between different features.
+3. Feature Engineering: I engineered new features, such as calculating total revenue, average sales per region, and identifying year on year patterns, to enhance our analysis and provide additional insights.
+4. Power BI Dashboard: I developed an interactive Power BI dashboard to present our findings visually. The dashboard includes dynamic visualizations, filters, and key performance indicators to provide an intuitive and user-friendly experience.
 
 
 
@@ -58,7 +58,5 @@ Feel free to adapt the code and dashboard to suit your specific needs and furthe
 
 ##Conclusion
 The Brewery Product Sales Analysis in West-African Countries provides valuable insights into the sales performance of brewery products. By leveraging Python for data analysis and Power BI for visualization, we have uncovered key trends, identified top-selling products, and analyzed the factors influencing sales in the region.
-We hope this analysis serves as a useful resource and inspires further exploration and decision-making in the brewery industry. Please feel free to reach out if you have any questions or suggestions.
-
-
+I hope this analysis serves as a useful resource and inspires further exploration and decision-making in the brewery industry. Please feel free to reach out if you have any questions or suggestions.
 
