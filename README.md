@@ -7,13 +7,12 @@ The countries involved are :
 - Togo
 - Senegal
 - Benin Republic
-## <font color ="red">Nigeria</font>
 
 
 
 
 
-##Brewery Product Sales Analysis in West-African Countries
+## <font color ="red">Brewery Product Sales Analysis in West-African Countries</font>
 
 Welcome to the Brewery Product Sales Analysis project! In this analysis, we dive deep into the sales data of brewery products in West-African countries to uncover valuable insights and trends. This repository contains a Jupyter Notebook file and a Power BI published dashboard that showcases our key findings and the steps taken to approach the problem.
 
@@ -34,13 +33,9 @@ Questions answered:
 * Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
 
 
-
-
 ##Files Included
 * analysis.ipynb: This Jupyter Notebook file contains the code, data preprocessing steps, and data analysis performed during the project. It provides a step-by-step approach to our analysis, including data exploration, cleaning, visualization, and statistical modeling.
 * sales_dashboard.pbix: This Power BI published dashboard presents a visually appealing and interactive representation of our analysis. It allows users to explore the sales data, view key metrics, and gain insights through interactive visualizations and filters.
-
-
 
 
 ##Steps Taken
@@ -48,7 +43,6 @@ Questions answered:
 2. Exploratory Data Analysis: We conducted exploratory data analysis to gain insights into the sales and consumption data’s trends and patterns. This involved visualizing key variables, identifying outliers, and understanding the relationships between different features.
 3. Feature Engineering: We engineered new features, such as calculating total revenue, average sales per region, and identifying year on year patterns, to enhance our analysis and provide additional insights.
 4. Power BI Dashboard: We developed an interactive Power BI dashboard to present our findings visually. The dashboard includes dynamic visualizations, filters, and key performance indicators to provide an intuitive and user-friendly experience.
-
 
 
 
