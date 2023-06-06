@@ -42,7 +42,7 @@ Questions answered:
 1. Data Collection: The dataset was pulled from one of Utiva.io’s business analysis courses, Along with a lot of the questions that helped us engage and practice our new Python skills. I accurately imported the dataset into Pandas DataFrame on Python. This step ensured the accuracy and reliability of our analysis of the available dataset.
 2. Exploratory Data Analysis: I conducted exploratory data analysis to gain insights into the sales and consumption data’s trends and patterns. This involved visualizing key variables, identifying outliers, and understanding the relationships between different features.
 3. Feature Engineering: I engineered new features, such as calculating total revenue, average sales per region, and identifying year on year patterns, to enhance our analysis and provide additional insights.
-4. Power BI Dashboard: I developed an interactive Power BI dashboard to present our findings visually. The dashboard includes dynamic visualizations, filters, and key performance indicators to provide an intuitive and user-friendly experience.
+4. Data Visualization: I developed an interactive Power BI dashboard to present our findings visually. The dashboard includes dynamic visualizations, filters, and key performance indicators to provide an intuitive and user-friendly experience. You can see the dashboard [here](https://app.powerbi.com/groups/me/reports/4aa82af6-589e-4082-a299-1f8c9f1d8f22/ReportSection49c208fbbc5a2702c089?experience=power-bi)
 
 
 
