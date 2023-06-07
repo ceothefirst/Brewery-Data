@@ -34,7 +34,7 @@ Questions answered:
 
 
 ## Files Included
-* analysis.ipynb: This Jupyter Notebook file contains the code, data preprocessing steps, and data analysis performed during the project. It provides a step-by-step approach to our analysis, including data exploration, cleaning, visualization, and statistical modeling.
+* brewery_data.ipynb: This Jupyter Notebook file contains the code, data preprocessing steps, and data analysis performed during the project. It provides a step-by-step approach to our analysis, including data exploration, cleaning, visualization, and statistical modeling.
 * sales_dashboard.pbix: This Power BI published dashboard presents a visually appealing and interactive representation of our analysis. It allows users to explore the sales data, view key metrics, and gain insights through interactive visualizations and filters.
 
 
